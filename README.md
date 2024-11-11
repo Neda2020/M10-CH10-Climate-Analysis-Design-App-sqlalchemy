@@ -55,9 +55,9 @@ Description: Returns the minimum, average, and maximum temperature for all dates
 Description: Returns the minimum, average, and maximum temperature for the dates between the specified start and end dates.
 
 ## Example Usage
-. Visit the homepage at http://127.0.0.1:5000/ to see available routes.
-. Query precipitation data: http://127.0.0.1:5000/api/v1.0/precipitation
-. Query station data: http://127.0.0.1:5000/api/v1.0/stations
+-Visit the homepage at http://127.0.0.1:5000/ to see available routes.
+-Query precipitation data: http://127.0.0.1:5000/api/v1.0/precipitation
+-Query station data: http://127.0.0.1:5000/api/v1.0/stations
 
 ### Setup and Installation
 Clone the repository: git clone 
